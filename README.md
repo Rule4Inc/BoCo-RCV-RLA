@@ -1,3 +1,14 @@
+___
+# IMPORTANT: Legacy Repository
+
+
+The official repository for this project is now served by Boulder County, and accessible at https://github.com/BoulderCounty/rcv-rla
+<br>
+<br>
+<br>
+<br>
+___
+
 # Boulder County RCV RLA Process
 **IMPORTANT DRAFT NOTICE**<br>
 All content presented in this page and GitHub repository should be considered draft.<br>
